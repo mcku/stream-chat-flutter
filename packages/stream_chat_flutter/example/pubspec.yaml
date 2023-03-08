@@ -38,6 +38,9 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  build_runner:
+  build_test:
+  build_web_compilers:
 
 dependency_overrides: 
   stream_chat_flutter: 
